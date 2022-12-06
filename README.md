@@ -1,4 +1,4 @@
-# Multi-Path-Editor-for-DOTweenPro
+# Multi-PathEditor-for-DOTweenPro
 
 ## Installation
 Drop DOTweenPathEditor.cs into any Editor folder of your project.
